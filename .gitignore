@@ -41,3 +41,5 @@ node_modules
 .idea/encodings.xml
 
 .idea/.name
+
+.tags*
